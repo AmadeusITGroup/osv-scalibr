@@ -109,14 +109,14 @@ func TestExtractor_Extract(t *testing.T) {
 		{
 			Name: "no dependencies",
 			InputConfig: extracttest.ScanInputMockConfig{
-				Path: "testdata/empty.lock",
+				Path: "testdata/no-dependencies.lock",
 			},
 			WantPackages: []*extractor.Package{},
 		},
 		{
 			Name: "no packages",
 			InputConfig: extracttest.ScanInputMockConfig{
-				Path: "testdata/empty.lock",
+				Path: "testdata/no-packages.lock",
 			},
 			WantPackages: []*extractor.Package{},
 		},
