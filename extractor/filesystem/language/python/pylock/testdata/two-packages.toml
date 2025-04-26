@@ -1,0 +1,24 @@
+lock-version = '1.0'
+version = 1
+requires-python = ">=3.10"
+
+[[packages]]
+name = "emoji"
+version = "2.14.1"
+index = "https://pypi.org/simple"
+sdist = { url = "https://files.pythonhosted.org/packages/cb/7d/01cddcbb6f5cc0ba72e00ddf9b1fa206c802d557fd0a20b18e130edf1336/emoji-2.14.1.tar.gz", upload-time = 2025-01-16T06:31:24Z, size = 597182, hashes = { sha256 = "f8c50043d79a2c1410ebfae833ae1868d5941a67a6cd4d18377e2eb0bd79346b" } }
+wheels = [{ url = "https://files.pythonhosted.org/packages/91/db/a0335710caaa6d0aebdaa65ad4df789c15d89b7babd9a30277838a7d9aac/emoji-2.14.1-py3-none-any.whl", upload-time = 2025-01-16T06:31:23Z, size = 590617, hashes = { sha256 = "35a8a486c1460addb1499e3bf7929d3889b2e2841a57401903699fef595e942b" } }]
+
+[[packages]]
+name = "protobuf"
+version = "6.30.2"
+index = "https://pypi.org/simple"
+sdist = { url = "https://files.pythonhosted.org/packages/c8/8c/cf2ac658216eebe49eaedf1e06bc06cbf6a143469236294a1171a51357c3/protobuf-6.30.2.tar.gz", upload-time = 2025-03-26T19:12:57Z, size = 429315, hashes = { sha256 = "35c859ae076d8c56054c25b59e5e59638d86545ed6e2b6efac6be0b6ea3ba048" } }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/be/85/cd53abe6a6cbf2e0029243d6ae5fb4335da2996f6c177bb2ce685068e43d/protobuf-6.30.2-cp310-abi3-win32.whl", upload-time = 2025-03-26T19:12:41Z, size = 419148, hashes = { sha256 = "b12ef7df7b9329886e66404bef5e9ce6a26b54069d7f7436a0853ccdeb91c103" } },
+    { url = "https://files.pythonhosted.org/packages/97/e9/7b9f1b259d509aef2b833c29a1f3c39185e2bf21c9c1be1cd11c22cb2149/protobuf-6.30.2-cp310-abi3-win_amd64.whl", upload-time = 2025-03-26T19:12:44Z, size = 431003, hashes = { sha256 = "7653c99774f73fe6b9301b87da52af0e69783a2e371e8b599b3e9cb4da4b12b9" } },
+    { url = "https://files.pythonhosted.org/packages/8e/66/7f3b121f59097c93267e7f497f10e52ced7161b38295137a12a266b6c149/protobuf-6.30.2-cp39-abi3-macosx_10_9_universal2.whl", upload-time = 2025-03-26T19:12:45Z, size = 417579, hashes = { sha256 = "0eb523c550a66a09a0c20f86dd554afbf4d32b02af34ae53d93268c1f73bc65b" } },
+    { url = "https://files.pythonhosted.org/packages/d0/89/bbb1bff09600e662ad5b384420ad92de61cab2ed0f12ace1fd081fd4c295/protobuf-6.30.2-cp39-abi3-manylinux2014_aarch64.whl", upload-time = 2025-03-26T19:12:46Z, size = 317319, hashes = { sha256 = "50f32cc9fd9cb09c783ebc275611b4f19dfdfb68d1ee55d2f0c7fa040df96815" } },
+    { url = "https://files.pythonhosted.org/packages/28/50/1925de813499546bc8ab3ae857e3ec84efe7d2f19b34529d0c7c3d02d11d/protobuf-6.30.2-cp39-abi3-manylinux2014_x86_64.whl", upload-time = 2025-03-26T19:12:48Z, size = 316212, hashes = { sha256 = "4f6c687ae8efae6cf6093389a596548214467778146b7245e886f35e1485315d" } },
+    { url = "https://files.pythonhosted.org/packages/e5/a1/93c2acf4ade3c5b557d02d500b06798f4ed2c176fa03e3c34973ca92df7f/protobuf-6.30.2-py3-none-any.whl", upload-time = 2025-03-26T19:12:55Z, size = 167062, hashes = { sha256 = "ae86b030e69a98e08c77beab574cbcb9fff6d031d57209f574a5aea1445f4b51" } },
+]

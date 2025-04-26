@@ -1,0 +1,8 @@
+lock-version = '1.0'
+version = 1
+requires-python = ">=3.10"
+
+[[packages]]
+name = "structlog"
+version = "25.3.1.dev1"
+vcs = { type = "git", url = "https://github.com/hynek/structlog.git", commit-id = "677d00b8b7384b35fdde179093cfd5113894d75b" }
