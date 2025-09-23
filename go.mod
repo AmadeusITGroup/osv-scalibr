@@ -19,7 +19,7 @@ require (
 	github.com/containerd/containerd v1.7.23
 	github.com/containerd/containerd/api v1.9.0
 	github.com/deitch/magic v0.0.0-20240306090643-c67ab88f10cb
-	github.com/docker/docker v28.2.2+incompatible
+	github.com/docker/docker v28.3.3+incompatible
 	github.com/erikvarga/go-rpmdb v0.0.0-20250523120114-a15a62cd4593
 	github.com/go-git/go-git/v5 v5.16.2
 	github.com/gobwas/glob v0.2.3
